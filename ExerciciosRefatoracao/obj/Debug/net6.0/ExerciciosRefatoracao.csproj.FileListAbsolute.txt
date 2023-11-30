@@ -1,0 +1,30 @@
+C:\Desenvolvimento\Estudos\ExerciciosRefatoracao\ExerciciosRefatoracao\bin\Debug\net6.0\ExerciciosRefatoracao.exe
+C:\Desenvolvimento\Estudos\ExerciciosRefatoracao\ExerciciosRefatoracao\bin\Debug\net6.0\ExerciciosRefatoracao.deps.json
+C:\Desenvolvimento\Estudos\ExerciciosRefatoracao\ExerciciosRefatoracao\bin\Debug\net6.0\ExerciciosRefatoracao.runtimeconfig.json
+C:\Desenvolvimento\Estudos\ExerciciosRefatoracao\ExerciciosRefatoracao\bin\Debug\net6.0\ExerciciosRefatoracao.dll
+C:\Desenvolvimento\Estudos\ExerciciosRefatoracao\ExerciciosRefatoracao\bin\Debug\net6.0\ExerciciosRefatoracao.pdb
+C:\Desenvolvimento\Estudos\ExerciciosRefatoracao\ExerciciosRefatoracao\obj\Debug\net6.0\ExerciciosRefatoracao.csproj.AssemblyReference.cache
+C:\Desenvolvimento\Estudos\ExerciciosRefatoracao\ExerciciosRefatoracao\obj\Debug\net6.0\ExerciciosRefatoracao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Desenvolvimento\Estudos\ExerciciosRefatoracao\ExerciciosRefatoracao\obj\Debug\net6.0\ExerciciosRefatoracao.AssemblyInfoInputs.cache
+C:\Desenvolvimento\Estudos\ExerciciosRefatoracao\ExerciciosRefatoracao\obj\Debug\net6.0\ExerciciosRefatoracao.AssemblyInfo.cs
+C:\Desenvolvimento\Estudos\ExerciciosRefatoracao\ExerciciosRefatoracao\obj\Debug\net6.0\ExerciciosRefatoracao.csproj.CoreCompileInputs.cache
+C:\Desenvolvimento\Estudos\ExerciciosRefatoracao\ExerciciosRefatoracao\obj\Debug\net6.0\ExerciciosRefatoracao.dll
+C:\Desenvolvimento\Estudos\ExerciciosRefatoracao\ExerciciosRefatoracao\obj\Debug\net6.0\refint\ExerciciosRefatoracao.dll
+C:\Desenvolvimento\Estudos\ExerciciosRefatoracao\ExerciciosRefatoracao\obj\Debug\net6.0\ExerciciosRefatoracao.pdb
+C:\Desenvolvimento\Estudos\ExerciciosRefatoracao\ExerciciosRefatoracao\obj\Debug\net6.0\ExerciciosRefatoracao.genruntimeconfig.cache
+C:\Desenvolvimento\Estudos\ExerciciosRefatoracao\ExerciciosRefatoracao\obj\Debug\net6.0\ref\ExerciciosRefatoracao.dll
+R:\Ens Tecnico\DESENVOLVIMENTO DE SISTEMAS\3 Módulo - 2023\DesenvSistemasII\ProjetosTrabalho\ExerciciosRefatoracao\ExerciciosRefatoracao\bin\Debug\net6.0\ExerciciosRefatoracao.exe
+R:\Ens Tecnico\DESENVOLVIMENTO DE SISTEMAS\3 Módulo - 2023\DesenvSistemasII\ProjetosTrabalho\ExerciciosRefatoracao\ExerciciosRefatoracao\bin\Debug\net6.0\ExerciciosRefatoracao.deps.json
+R:\Ens Tecnico\DESENVOLVIMENTO DE SISTEMAS\3 Módulo - 2023\DesenvSistemasII\ProjetosTrabalho\ExerciciosRefatoracao\ExerciciosRefatoracao\bin\Debug\net6.0\ExerciciosRefatoracao.runtimeconfig.json
+R:\Ens Tecnico\DESENVOLVIMENTO DE SISTEMAS\3 Módulo - 2023\DesenvSistemasII\ProjetosTrabalho\ExerciciosRefatoracao\ExerciciosRefatoracao\bin\Debug\net6.0\ExerciciosRefatoracao.dll
+R:\Ens Tecnico\DESENVOLVIMENTO DE SISTEMAS\3 Módulo - 2023\DesenvSistemasII\ProjetosTrabalho\ExerciciosRefatoracao\ExerciciosRefatoracao\bin\Debug\net6.0\ExerciciosRefatoracao.pdb
+R:\Ens Tecnico\DESENVOLVIMENTO DE SISTEMAS\3 Módulo - 2023\DesenvSistemasII\ProjetosTrabalho\ExerciciosRefatoracao\ExerciciosRefatoracao\obj\Debug\net6.0\ExerciciosRefatoracao.csproj.AssemblyReference.cache
+R:\Ens Tecnico\DESENVOLVIMENTO DE SISTEMAS\3 Módulo - 2023\DesenvSistemasII\ProjetosTrabalho\ExerciciosRefatoracao\ExerciciosRefatoracao\obj\Debug\net6.0\ExerciciosRefatoracao.GeneratedMSBuildEditorConfig.editorconfig
+R:\Ens Tecnico\DESENVOLVIMENTO DE SISTEMAS\3 Módulo - 2023\DesenvSistemasII\ProjetosTrabalho\ExerciciosRefatoracao\ExerciciosRefatoracao\obj\Debug\net6.0\ExerciciosRefatoracao.AssemblyInfoInputs.cache
+R:\Ens Tecnico\DESENVOLVIMENTO DE SISTEMAS\3 Módulo - 2023\DesenvSistemasII\ProjetosTrabalho\ExerciciosRefatoracao\ExerciciosRefatoracao\obj\Debug\net6.0\ExerciciosRefatoracao.AssemblyInfo.cs
+R:\Ens Tecnico\DESENVOLVIMENTO DE SISTEMAS\3 Módulo - 2023\DesenvSistemasII\ProjetosTrabalho\ExerciciosRefatoracao\ExerciciosRefatoracao\obj\Debug\net6.0\ExerciciosRefatoracao.csproj.CoreCompileInputs.cache
+R:\Ens Tecnico\DESENVOLVIMENTO DE SISTEMAS\3 Módulo - 2023\DesenvSistemasII\ProjetosTrabalho\ExerciciosRefatoracao\ExerciciosRefatoracao\obj\Debug\net6.0\ExerciciosRefatoracao.dll
+R:\Ens Tecnico\DESENVOLVIMENTO DE SISTEMAS\3 Módulo - 2023\DesenvSistemasII\ProjetosTrabalho\ExerciciosRefatoracao\ExerciciosRefatoracao\obj\Debug\net6.0\refint\ExerciciosRefatoracao.dll
+R:\Ens Tecnico\DESENVOLVIMENTO DE SISTEMAS\3 Módulo - 2023\DesenvSistemasII\ProjetosTrabalho\ExerciciosRefatoracao\ExerciciosRefatoracao\obj\Debug\net6.0\ExerciciosRefatoracao.pdb
+R:\Ens Tecnico\DESENVOLVIMENTO DE SISTEMAS\3 Módulo - 2023\DesenvSistemasII\ProjetosTrabalho\ExerciciosRefatoracao\ExerciciosRefatoracao\obj\Debug\net6.0\ExerciciosRefatoracao.genruntimeconfig.cache
+R:\Ens Tecnico\DESENVOLVIMENTO DE SISTEMAS\3 Módulo - 2023\DesenvSistemasII\ProjetosTrabalho\ExerciciosRefatoracao\ExerciciosRefatoracao\obj\Debug\net6.0\ref\ExerciciosRefatoracao.dll

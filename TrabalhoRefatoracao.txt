@@ -1,0 +1,6 @@
+1)Exercício de Refatoração
+
+Diante do cenário dado, analise o programa e faça as manutenções abaixo:
+
+a) Implementar o cadastro de pessoa jurídica;
+b) com base nas técnicas de refatoração proponha uma refatoração do programa de forma a reduzir o código duplicado.
